@@ -1,2 +1,2 @@
-# Homework02CRB
-# AccessabilityHW
+This project involved refactoring code for a digital marketing agency. While multiple changes were made, the integrity of the original code was kept, while creating a cleaner code. Changes included making comments to CSS and HTML, adding id tags for appropriate link format, and adding alt tags to images for accessability purposes. 
+Condensing of CSS code was attempted, but not successful. CSS was reformatted to match the flow of the page. 
